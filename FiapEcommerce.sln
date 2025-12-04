@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapEcommerce.Api", "FiapEcommerce.Api\FiapEcommerce.Api.csproj", "{779F36D3-DA17-4DAF-82D4-9918D9AAAE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapEcommerce.Domain", "FiapEcommerce.Domain\FiapEcommerce.Domain.csproj", "{8C8CA200-A076-4546-8446-65B75590D3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapEcommerce.Infra", "FiapEcommerce.Infra\FiapEcommerce.Infra.csproj", "{63AEF9DA-A5A9-4BC4-B7B3-2140871EFB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryExternal.SAP", "LibraryExternal.SAP\LibraryExternal.SAP.csproj", "{7438738E-23F6-4E62-934D-3BEA85030257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapEcommerce.Tests", "FiapEcommerce.Tests\FiapEcommerce.Tests.csproj", "{EB7C0064-DF5D-403E-9D99-7C657871F550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779F36D3-DA17-4DAF-82D4-9918D9AAAE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779F36D3-DA17-4DAF-82D4-9918D9AAAE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779F36D3-DA17-4DAF-82D4-9918D9AAAE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779F36D3-DA17-4DAF-82D4-9918D9AAAE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8CA200-A076-4546-8446-65B75590D3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8CA200-A076-4546-8446-65B75590D3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8CA200-A076-4546-8446-65B75590D3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8CA200-A076-4546-8446-65B75590D3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AEF9DA-A5A9-4BC4-B7B3-2140871EFB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AEF9DA-A5A9-4BC4-B7B3-2140871EFB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AEF9DA-A5A9-4BC4-B7B3-2140871EFB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AEF9DA-A5A9-4BC4-B7B3-2140871EFB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7438738E-23F6-4E62-934D-3BEA85030257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7438738E-23F6-4E62-934D-3BEA85030257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7438738E-23F6-4E62-934D-3BEA85030257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7438738E-23F6-4E62-934D-3BEA85030257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7C0064-DF5D-403E-9D99-7C657871F550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7C0064-DF5D-403E-9D99-7C657871F550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7C0064-DF5D-403E-9D99-7C657871F550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7C0064-DF5D-403E-9D99-7C657871F550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
